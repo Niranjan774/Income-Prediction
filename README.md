@@ -26,7 +26,7 @@ I started this project as academic project for Post Graduation.This is machine l
  - salary: <=50K or >50K
 
 
-Dataset link - https://github.com/NiranjanKadam7/Titanic_Survival_Prediction/blob/main/TitanicTrainingData.csv
+Dataset link - https://github.com/NiranjanKadam7/Income-Prediction/blob/main/salary.csv
 
 
 ## Libraries Used
